@@ -1,0 +1,6 @@
+# Eclipse
+.classpath
+.project
+.settinigs/
+bin/
+build.fxbuild
